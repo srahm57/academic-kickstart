@@ -45,7 +45,7 @@ subtitle = ""
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  #flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -57,8 +57,8 @@ subtitle = ""
   #color = "navy"
   
   # Background gradient.
-  gradient_start = "#dfe8e1"
-  gradient_end = "#ffffff"
+  #gradient_start = "#dfe8e1"
+  #gradient_end = "#ffffff"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
